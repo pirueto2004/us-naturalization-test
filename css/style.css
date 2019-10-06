@@ -1,0 +1,33 @@
+﻿body {
+    padding:20px;
+    font-family:Roboto;
+}
+
+.container {
+   margin:10px 0;
+   padding:20px;  
+}
+
+#container1 {
+  background-color:lightblue;
+}
+
+#container2 {
+  background-color:lightgreen;
+}
+
+#container3 {
+  background-color:cyan;
+}
+
+#container4 {
+  background-color:yellow;
+}
+
+#container5 {
+  background-color:orange;
+}
+
+#container6 {
+  background-color:teal;
+}
